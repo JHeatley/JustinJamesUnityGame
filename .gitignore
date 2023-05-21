@@ -2,6 +2,8 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
 #
+JustinJamesUnityGame\Library\Artifacts\
+*\[Ll]ibrary\
 /[Ll]ibrary/
 /[Tt]emp/
 /[Oo]bj/
@@ -70,3 +72,20 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+JustinJamesUnityGame/Library/Artifacts/00/0000f9e138d5f0699ace233517bc51bd
+JustinJamesUnityGame/Library/Artifacts/00/0007f11ac2f59a90cd3ea1a317f15bc5
+JustinJamesUnityGame/Library/Artifacts/00/0013f3d7912f50eac1cd8a575334e6fc
+JustinJamesUnityGame/Library/Artifacts/00/0013f3d7912f50eac1cd8a575334e6fc
+JustinJamesUnityGame/Library/Artifacts/00/00195660675552a8ca2add3d7587da8f
+JustinJamesUnityGame/Library/Artifacts/00/001f084f4ce856c848794205ad8b1e91
+JustinJamesUnityGame/Library/Artifacts/00/001f084f4ce856c848794205ad8b1e91
+JustinJamesUnityGame/Library/Artifacts/00/0025629d5e2a9e8ad192032b4b612d55
+JustinJamesUnityGame/Library/Artifacts/00/0025629d5e2a9e8ad192032b4b612d55
+JustinJamesUnityGame/Library/Artifacts/00/0044d3f9c670b974acaa9b167c8ef2db
+JustinJamesUnityGame/Library/Artifacts/00/0047d4cf9cd3c65aeef3f1db2be13e08
+JustinJamesUnityGame/Library/Artifacts/00/0047d4cf9cd3c65aeef3f1db2be13e08
+JustinJamesUnityGame/Library/Artifacts/00/004969905dc16d321d052bd7d8f4052e
+JustinJamesUnityGame/Library/Artifacts/00/004969905dc16d321d052bd7d8f4052e
+JustinJamesUnityGame/Library/Artifacts/00/005261cd85047360ca73ceea0a00b7eb
+JustinJamesUnityGame/Library/Artifacts/00/00579a1b3a82ccdf714251f30117e388
+JustinJamesUnityGame/Library/*
